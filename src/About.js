@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import "./index.css";
 
 const About = () => {
     return (
-        <div>This is my About component</div>
+        <div class='timings'>This is my About component</div>
     )
 }
 

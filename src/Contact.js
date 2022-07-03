@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import "./index.css";
 
 const Contact = () => {
     return (
-        <div>This is my Contact component</div>
+        <div class='timings'>This is my Contact component</div>
     )
 }
 
