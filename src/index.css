@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #011839;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +11,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.timings {
+  background-color: white;
+  color: #011839;
+  height: 400px;
+  width: 70%;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  line-height: 30px;
+  padding-top: 50px;
+  font-size: 130%;
 }
