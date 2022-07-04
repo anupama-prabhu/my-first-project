@@ -1,10 +1,11 @@
 import "./Footer.css";
 import React from "react";
+import SocialFollow from "../SocialFollow";
 
 function template() {
   return (
-    <div className="footer">
-      &copy; all rights reserved;
+    <div>
+      <SocialFollow />
     </div>
   );
 };
