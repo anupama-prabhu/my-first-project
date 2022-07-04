@@ -2,8 +2,8 @@
     margin: 0;
     list-style-type: none;
     text-align: right;
-    background: greenyellow;
-    line-height: 40px;
+    background-color: #f1a81c;
+    line-height: 30px;
 }
 
 .menu>li {
@@ -14,7 +14,7 @@
 }
 
 .menu-active {
-    color: red;
+    color: purple;
     font-size: 20px;
     font-weight: bold;
 }
